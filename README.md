@@ -1,6 +1,5 @@
 # FirstTime
-初次，试验性的游戏
-
+初次，试验性
 I am a college student who is about to graduate.
 I like playing games and I like making games.
 At present, I am most familiar with the game engine is Unity3D. Therefore, most of my works are based on it.
